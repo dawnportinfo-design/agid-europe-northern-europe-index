@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "agid-index-repository-manifest-v0.1",
+  "repository": "agid-europe-northern-europe-index",
+  "kind": "region-index",
+  "owner": "dawnportinfo-design",
+  "canonicalContinent": "europe",
+  "region": "northern_europe",
+  "stage": "wave-0-index",
+  "dataReady": true,
+  "sourcePlanVersion": "agid-europe-repository-creation-plan-v1",
+  "generatedAt": "2026-06-29T05:03:54.260Z",
+  "privacy": {
+    "rawAddressStorage": false,
+    "recipientStorage": false,
+    "precisePrivateCoordinates": false,
+    "witnessMaterial": false,
+    "privateKeys": false
+  },
+  "relatedRepositories": [
+    {
+      "repository": "agid-country-gb",
+      "kind": "country-parent",
+      "countryCode": "GB",
+      "countryName": "United Kingdom",
+      "stage": "wave-1-country-parent",
+      "dataReady": false
+    },
+    {
+      "repository": "agid-country-ie",
+      "kind": "country-parent",
+      "countryCode": "IE",
+      "countryName": "Ireland",
+      "stage": "wave-1-country-parent",
+      "dataReady": false
+    },
+    {
+      "repository": "agid-country-no",
+      "kind": "country-parent",
+      "countryCode": "NO",
+      "countryName": "Norway",
+      "stage": "wave-1-country-parent",
+      "dataReady": false
+    },
+    {
+      "repository": "agid-country-se",
+      "kind": "country-parent",
+      "countryCode": "SE",
+      "countryName": "Sweden",
+      "stage": "wave-1-country-parent",
+      "dataReady": false
+    },
+    {
+      "repository": "agid-country-fi",
+      "kind": "country-parent",
+      "countryCode": "FI",
+      "countryName": "Finland",
+      "stage": "wave-1-country-parent",
+      "dataReady": false
+    },
+    {
+      "repository": "agid-country-dk",
+      "kind": "country-parent",
+      "countryCode": "DK",
+      "countryName": "Denmark",
+      "stage": "wave-1-country-parent",
+      "dataReady": false
+    },
+    {
+      "repository": "agid-country-is",
+      "kind": "country-parent",
+      "countryCode": "IS",
+      "countryName": "Iceland",
+      "stage": "wave-1-country-parent",
+      "dataReady": false
+    },
+    {
+      "repository": "agid-country-ax",
+      "kind": "country-parent",
+      "countryCode": "AX",
+      "countryName": "Åland Islands",
+      "stage": "wave-1-country-parent",
+      "dataReady": false
+    },
+    {
+      "repository": "agid-country-fo",
+      "kind": "country-parent",
+      "countryCode": "FO",
+      "countryName": "Faroe Islands",
+      "stage": "wave-1-country-parent",
+      "dataReady": false
+    },
+    {
+      "repository": "agid-country-gl",
+      "kind": "country-parent",
+      "countryCode": "GL",
+      "countryName": "Greenland",
+      "stage": "wave-1-country-parent",
+      "dataReady": false
+    },
+    {
+      "repository": "agid-country-ee",
+      "kind": "country-parent",
+      "countryCode": "EE",
+      "countryName": "Estonia",
+      "stage": "wave-1-country-parent",
+      "dataReady": false
+    },
+    {
+      "repository": "agid-country-lv",
+      "kind": "country-parent",
+      "countryCode": "LV",
+      "countryName": "Latvia",
+      "stage": "wave-1-country-parent",
+      "dataReady": false
+    },
+    {
+      "repository": "agid-country-lt",
+      "kind": "country-parent",
+      "countryCode": "LT",
+      "countryName": "Lithuania",
+      "stage": "wave-1-country-parent",
+      "dataReady": false
+    },
+    {
+      "repository": "agid-country-sj_sva",
+      "kind": "country-parent",
+      "countryCode": "SJ_SVA",
+      "countryName": "Svalbard",
+      "stage": "wave-1-country-parent",
+      "dataReady": false
+    },
+    {
+      "repository": "agid-country-sj_jan",
+      "kind": "country-parent",
+      "countryCode": "SJ_JAN",
+      "countryName": "Jan Mayen",
+      "stage": "wave-1-country-parent",
+      "dataReady": false
+    },
+    {
+      "repository": "agid-country-gg",
+      "kind": "country-parent",
+      "countryCode": "GG",
+      "countryName": "Guernsey",
+      "stage": "wave-1-country-parent",
+      "dataReady": false
+    },
+    {
+      "repository": "agid-country-je",
+      "kind": "country-parent",
+      "countryCode": "JE",
+      "countryName": "Jersey",
+      "stage": "wave-1-country-parent",
+      "dataReady": false
+    },
+    {
+      "repository": "agid-country-im",
+      "kind": "country-parent",
+      "countryCode": "IM",
+      "countryName": "Isle of Man",
+      "stage": "wave-1-country-parent",
+      "dataReady": false
+    }
+  ]
+}
